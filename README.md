@@ -9,7 +9,7 @@ Tech : Spring MVC , My SQL, Hibernate, Security, Spring Mail, HTML, CSS,...<br/>
 Data : ShopVans <br/>
 
 <h2>Installation</h2>
- <a href="https://github.com/coosi29/FlatShop/tree/main/flatshop">Download FlatShop Backend</a><br/>
+ <a href="https://github.com/quanghavan29/FlatShop">Download FlatShop Backend</a><br/>
 
  <h2>Video Demo</h2>
  <a href="https://www.youtube.com/watch?v=0si0qdsfBQI&t=1s">Video FlatShop Demo</a><br/>
